@@ -14,4 +14,8 @@ Turning a RPi Zero into a garage door remote
 
  1. Follow instructions to install Raspian onto Raspberry Pi, can be done with [Noobs](https://www.raspberrypi.org/downloads/noobs/). 
  2. Install PHP and Apache for web server: `sudo apt install libapache2-mod-php` and `sudo apt-get install apache2 -y` via Pi terminal 
- 3. **To be continued** 
+ 3. 
+ 
+ **To be continued** 
+ 
+ 23/02/20 - Full writeup coming soon :) 
