@@ -2,6 +2,8 @@
 # Raspberry Pi Door Opener
 Turning a RPi Zero into a garage door remote 
 
+![Demo](https://imgur.com/FoPUz97.mp4)
+
 **Requires:** 
   - [2 Channel DC 5V Relay Module](https://www.amazon.com/gp/product/B00E0NTPP4/ref=oh_details_o01_s00_i00?ie=UTF8&psc=1)
   - Raspberry Pi (any model) with GPIO Pins (Needs to be soldered if using RPi Zero) Pi requires connection to the internet. (May require wireless adaptor)
